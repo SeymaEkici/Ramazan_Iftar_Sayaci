@@ -47,3 +47,4 @@ Kullanım
 -   Python dosyasını çalıştırarak uygulamayı başlatın.
 -   Şehir girin veya seçin, ardından İftar zamanını öğrenin.
 -   İftar'a kalan süre ekranda gösterilecektir.
+  
